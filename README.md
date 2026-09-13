@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/Platform-ESP32-green)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Release](https://img.shields.io/badge/Release-v1.0.OTA-orange)
+![Release](https://img.shields.io/badge/Release-v1.0.et.OTA-orange)
 
 Firmware pour ESP32 pilotant **4 relais** via boutons poussoir physiques **et** une page web (avec mise à jour AJAX en temps réel), avec affichage d'état sur un écran **OLED I2C** et connexion automatique au **meilleur réseau WiFi connu** parmi une liste.
 
